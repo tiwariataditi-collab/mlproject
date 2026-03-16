@@ -207,6 +207,8 @@ marimo/_lsp/
 __marimo__/
 
 venv/
+Scripts/
+share/
 __pycache__/
 .ipynb_checkpoints/
 *.pyc
